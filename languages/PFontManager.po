@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Parane Font Manager\n"
+"POT-Creation-Date: 2018-07-23 13:44+0430\n"
+"PO-Revision-Date: 2018-07-23 13:45+0430\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: PFM-fontManager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: PFM-fontManager.php:46
+msgid "Font Name: "
+msgstr ""
+
+#: PFM-fontManager.php:47
+msgid "+ Add another font"
+msgstr ""
+
+#: PFM-fontManager.php:48
+msgid "Custom Elements: "
+msgstr ""
+
+#: PFM-fontManager.php:49
+msgid "Seprate Elements with line breaks, "
+msgstr ""
+
+#: PFM-fontManager.php:50
+msgid "Font Style: "
+msgstr ""
+
+#: PFM-fontManager.php:51
+msgid "Font Stretch: "
+msgstr ""
+
+#: PFM-fontManager.php:52
+msgid "Font Weight: "
+msgstr ""
+
+#: PFM-fontManager.php:53
+msgid "Elements: "
+msgstr ""
+
+#: PFM-fontManager.php:54
+msgid "hold ctrl or shift (or drag with the mouse) to select more than one "
+msgstr ""
+
+#: PFM-fontManager.php:55
+msgid "We got a problem while loading Fonts because: "
+msgstr ""
+
+#: PFM-fontManager.php:56
+msgid "fontFile"
+msgstr ""
+
+#: PFM-fontManager.php:57
+msgid "Choose/Upload your font file"
+msgstr ""
+
+#: PFM-fontManager.php:58 PFM-fontManager.php:60
+msgid "Choose Font"
+msgstr ""
+
+#: PFM-fontManager.php:59
+msgid "Font Url: "
+msgstr ""
+
+#: PFM-fontManager.php:61
+msgid "We cannot save your fonts because some of font urls was empty!"
+msgstr ""
+
+#: PFM-fontManager.php:62
+msgid "Your Fonts Setting Saved Successfully!"
+msgstr ""
+
+#: PFM-fontManager.php:63
+msgid "We got a problem while Saving Fonts because: "
+msgstr ""
+
+#: PFM-fontManager.php:76 PFM-fontManager.php:77
+msgid "Font Manager"
+msgstr ""
+
+#: includes/AdminPage.php:18
+msgid "+ Add Font"
+msgstr ""
+
+#: includes/AdminPage.php:19
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Parane Font Manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Parane Font Manager allows you to use any fonts you want in wordpress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Parham Parnian"
+msgstr ""
