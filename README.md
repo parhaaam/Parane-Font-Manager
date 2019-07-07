@@ -1,11 +1,8 @@
 # Parane-Font-Manager
 a plugin for adding fonts to Wordpress Website
 
-=== Parane Font Manager ===
-Contributors: parham13
-Tags: Parane, font manager, custom font, parane font manager, font uploader, embed font, add font
-Requires at least: 1.0
 Tested up to: 4.9.1
+
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
